@@ -1,0 +1,14 @@
+.box{
+    border: 2px solid black;
+    text-align: center;
+    height:500px;
+    width: 300px;
+    background-color: rgb(234, 231, 228);
+}
+img{
+    border-radius: 100px;
+    width: 130px;
+}
+h3{
+    font-size: 15px;
+}
